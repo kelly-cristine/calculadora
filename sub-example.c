@@ -7,7 +7,7 @@ int main(){
 
     c=a-b;
 
-    printf("The difference (or subtraction, if you want) of %d and %d is: %d\n", a, b, c);
+    printf("The difference of %d and %d is: %d\n", a, b, c);
 
     return 0;
 }
