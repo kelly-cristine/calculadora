@@ -7,7 +7,11 @@ int main(){
 
     c=a-b;
 
+<<<<<<< HEAD
     printf("The difference (or subtraction) of %d and %d is: %d\n", a, b, c);
+=======
+    printf("The difference of %d and %d is: %d\n", a, b, c);
+>>>>>>> feature-a
 
     return 0;
 }
