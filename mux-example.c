@@ -7,7 +7,11 @@ int main(){
 
     c=a*b;
 
+<<<<<<< HEAD
     printf("The product (different) of %d and %d is: %d\n", a, b, c);
+=======
+    printf("The product of %d and %d is: %d\n", a, b, c);
+>>>>>>> experimento
 
     return 0;
 }
